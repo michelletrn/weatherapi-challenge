@@ -45,3 +45,12 @@ header {
     width: 100px;
     height: 70px;
 }
+
+#previously-searched button {
+    width: 100%;
+   
+}
+
+.left-side {
+    padding-right: 25px;
+}
